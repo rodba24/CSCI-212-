@@ -1,2 +1,2 @@
-# CSCI-212-
+# CSCI-212-Lord
 OOP in Java
